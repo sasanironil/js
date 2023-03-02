@@ -21,4 +21,17 @@ let isLoggedIn = 1
  // it we write "" then it shows the false
  // if we write "ronil" then it shows the true
 
+ // Operation
+
+ let str1 = "hello"
+ let str2 = "ronil"
+ let str3 = "str1 + str2"
+
+ console.log(str3);
+
+
+ console.log("1" +2);
+ console.log(1 + "2");
+ console.log("1" + 2 +2); 
+ console.log(1 + 2 +"2"); 
  
